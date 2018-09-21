@@ -1,5 +1,5 @@
-*create virtualenv with python3
-*install requirements in requirements.txt
-*install attila theme
-*add new content to content folder
-*run pelican content
+- create virtualenv with python3
+- install requirements in requirements.txt
+- install attila theme (pelican-theme -i themes/attila)
+- add new content to content folder
+- run pelican content
