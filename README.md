@@ -1,5 +1,6 @@
 - create virtualenv with python3
 - install requirements in requirements.txt
-- install attila theme (pelican-theme -i themes/attila)
+- update the submodule for Attila theme "git submodule update --init --recursive"
+- install attila theme (pelican-themes -i themes/attila)
 - add new content to content folder
-- run pelican content
+- run pelican content (cd output && python -m pelican.server)
