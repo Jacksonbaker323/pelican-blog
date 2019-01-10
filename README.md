@@ -3,4 +3,5 @@
 - update the submodule for Attila theme "git submodule update --init --recursive"
 - install attila theme (pelican-themes -i themes/attila)
 - add new content to content folder
-- run pelican content (cd output && python -m pelican.server)
+- run pelican content (pelican content)
+- run pelican server (cd output && python -m pelican.server)
